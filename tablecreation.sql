@@ -22,10 +22,10 @@ INSERT INTO STUDENTS (ST_ID, ST_NAME, ST_LAST) VALUES
 INSERT INTO INTERESTS (STUDENT_ID, INTEREST) VALUES
 (1, 'Tennis'),
 (1, 'Literature'),
-(1, 'Chemistry'),
 (2, 'Math'),
 (2, 'Tennis'),
-(2, 'Football'),
 (3, 'Math'),
 (3, 'Music'),
+(2, 'Football'),
+(1, 'Chemistry'),
 (3, 'Chess');
