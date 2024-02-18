@@ -32,6 +32,14 @@
 3. The column named as interest changed to interests in **interests** table.
 4. In the **interests** table, the type of interests changed to **array of strings**.
 
+### In the rollback phase: (in short, tables have been restored to their original(first) version).
+1. The column named as student_id reversed to st_id in **students** table.
+2. Both st_name and st_last columns' lengths reversed from 30 to 20 in **students** table.
+3. The column named as interests changed to interest in **interests** table.
+4. In the **interests** table, the type of interests changed from **array of strings** to normal type.
+
+   
+
    
 
 
