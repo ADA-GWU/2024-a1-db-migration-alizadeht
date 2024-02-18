@@ -25,6 +25,13 @@
 
    **e.g: \i /Users/turalalizada/Desktop/Production\&OperationManagement/2024-a1-db-migration-alizadeht/migration.sql**
 
+
+### In the migration phase:
+1. The column named as st_id changed to student_id in **students** table.
+2. Both st_name and st_last columns' lengths changed from 20 to 30 in **students** table.
+3. The column named as interest changed to interests in **interests** table.
+4. In the **interests** table, the type of interests changed to **array of strings**.
+
    
 
 
