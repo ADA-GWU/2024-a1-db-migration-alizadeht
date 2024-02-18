@@ -4,7 +4,6 @@
 
 ### 1. Installation
    Download PostgreSQL: https://www.postgresql.org/download/ From this link, you can install PostgreSQL, and run.
-   
 
 ### 2. Download repository
    https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/ Enter the repository, and click Code, then Download ZIP. This command will download the repository as a zip. UNZIP the file.
@@ -12,6 +11,15 @@
 ### 3. Run
    There are 3 files in this repository:
    tablecreation.sql (1st step of the process), migration.sql (2nd step), and rollback.sql (last step).
-   You can run SQL scripts in the command prompt or the Postgres app.
+   There are bunch of ways to run the script: You can run SQL scripts in the command prompt or the Postgres app.
+   1st way: you can copy paste the scripts in the right order. In this case, you just have to enter to the command prompt or Postgres app.
+   
+   2nd way: in command prompt of postgres, you can write following code:
+   
+   **\i pathofsqlscript**
+
+   **e.g: \i /Users/turalalizada/Desktop/Production\&OperationManagement/2024-a1-db-migration-alizadeht/migration.sql**
+
+   
 
 
