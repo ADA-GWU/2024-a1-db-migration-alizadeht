@@ -27,14 +27,15 @@
 
   > **e.g: \i /Users/turalalizada/Desktop/Production\&OperationManagement/2024-a1-db-migration-alizadeht/migration.sql**
 
+## The phases:
 
-### In the migration phase:
+#### In the migration phase:
 1. The column named st_id changed to student_id in **students** table.
 2. Both st_name and st_last columns' lengths changed from 20 to 30 in **students** table.
 3. The column named interest changed to interests in **interests** table.
 4. In the **interests** table, the type of interests changed to **array of strings**.
 
-### In the rollback phase: (in short, tables have been restored to their original(first) version).
+#### In the rollback phase: (in short, tables have been restored to their original(first) version).
 1. The column named student_id changed to st_id in **students** table.
 2. Both st_name and st_last columns' lengths changed from 30 to 20 in **students** table.
 3. The column named interests changed to interest in the **interests** table.
