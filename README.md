@@ -16,7 +16,7 @@
    
    2nd way: in command prompt of postgres, you can write following code:
    
-   **\i pathofsqlscript**
+   **\i filepathofsqlscript**
 
    **e.g: \i /Users/turalalizada/Desktop/Production\&OperationManagement/2024-a1-db-migration-alizadeht/migration.sql**
 
