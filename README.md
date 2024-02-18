@@ -23,7 +23,7 @@
    
    **\i filepathofsqlscript**
 
-   **e.g: \i /Users/turalalizada/Desktop/Production\&OperationManagement/2024-a1-db-migration-alizadeht/migration.sql**
+  > **e.g: \i /Users/turalalizada/Desktop/Production\&OperationManagement/2024-a1-db-migration-alizadeht/migration.sql**
 
 
 ### In the migration phase:
