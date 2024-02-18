@@ -6,7 +6,9 @@
    Download PostgreSQL: https://www.postgresql.org/download/ From this link, you can install PostgreSQL, and run.
 
 ### 2. Download repository
-   https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/ Enter the repository, click Code, then Download ZIP. This command will download the repository as a zip. UNZIP the file.
+   https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/ 
+   
+   Enter the repository, click Code, then Download ZIP. This command will download the repository as a zip. UNZIP the file.
    
    OR 
    
