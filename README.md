@@ -44,6 +44,21 @@
 3. The column named interests changed to interest in the **interests** table.
 4. In the **interests** table, the type of interests changed from **array of strings** to normal type.
 
+### Example of each phase:
+#### 1st phase (creation of tables):
+<img width="897" alt="image" src="https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/assets/78111301/4745c328-42bf-4216-a7e3-8c501bebe486">
+
+#### 2nd phase (migration process):
+<img width="877" alt="image" src="https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/assets/78111301/fe107ea4-611e-436b-a35c-77bc630a1627">
+
+#### 3rd phase(last) (rollback process):
+<img width="897" alt="image" src="https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/assets/78111301/61431fe3-fd6c-47ae-90fe-69f080d995f5">
+
+
+
+
+
+
    
 
    
