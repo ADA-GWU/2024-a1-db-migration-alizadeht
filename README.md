@@ -7,6 +7,11 @@
 
 ### 2. Download repository
    https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht/ Enter the repository, and click Code, then Download ZIP. This command will download the repository as a zip. UNZIP the file.
+   
+   OR 
+   
+   type this command in your command prompt - 
+   **git clone https://github.com/ADA-GWU/2024-a1-db-migration-alizadeht** 
 
 ### 3. Run
    There are 3 files in this repository:
