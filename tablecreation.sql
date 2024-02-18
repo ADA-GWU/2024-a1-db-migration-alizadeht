@@ -1,3 +1,4 @@
+BEGIN;
 -- create students table
 CREATE TABLE STUDENTS (
   ST_ID SERIAL PRIMARY KEY,
@@ -29,3 +30,4 @@ INSERT INTO INTERESTS (STUDENT_ID, INTEREST) VALUES
 (2, 'Football'),
 (1, 'Chemistry'),
 (3, 'Chess');
+COMMIT;

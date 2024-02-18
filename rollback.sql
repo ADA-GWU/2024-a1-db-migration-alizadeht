@@ -1,3 +1,4 @@
+BEGIN;
 -- Rename STUDENT_ID column as ST_ID in the STUDENTS table
 ALTER TABLE STUDENTS RENAME COLUMN STUDENT_ID TO ST_ID;
 
@@ -26,3 +27,4 @@ INSERT INTO INTERESTS (STUDENT_ID, INTEREST) VALUES
 (2, 'Football'),
 (1, 'Chemistry'),
 (3, 'Chess');
+COMMIT;
