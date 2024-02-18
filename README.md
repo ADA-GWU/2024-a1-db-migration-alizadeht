@@ -18,10 +18,13 @@
 ### 3. Run
    There are 3 files in this repository:
    tablecreation.sql (1st step of the process), migration.sql (2nd step), and rollback.sql (last step).
-   There are a bunch of ways to run the script: You can run SQL scripts in the command prompt or the Postgres app.
-   1st way: you can copy and paste the scripts in the right order. In this case, you just have to enter the command prompt or Postgres app.
    
-   2nd way: in the command prompt of Postgres, you can write the following code:
+   There are a bunch of ways to run the script: You can run SQL scripts in the command prompt or the Postgres app.
+
+   
+   **1st way**: you can copy and paste the scripts in the right order. In this case, you just have to enter the command prompt or Postgres app.
+   
+   **2nd way**: in the command prompt of Postgres, you can write the following code:
    
    **\i filepathofsqlscript**
 
